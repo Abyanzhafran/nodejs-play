@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon linkedList.js"
+  },
+  "keywords": [],
+  "author": "jupleks",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": "14.17.6"
+  }
+}

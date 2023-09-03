@@ -1,0 +1,16 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "lorem",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^29.6.4",
+    "nodemon": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "jupleks",
+  "license": "ISC"
+}
